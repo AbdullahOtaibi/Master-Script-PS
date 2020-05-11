@@ -1,0 +1,14 @@
+.\01_create-supporting-objects.sql
+.\02_foreign-key-constraints.sql
+.\03_nonclustered-indexes.sql
+.\04_clustered-indexes.sql
+.\05_computed-columns.sql
+.\06_alter-table-columns.sql
+.\07_execute-upgrade_part1.sql
+.\08_alter-functions_part1.sql
+.\09_execute-upgrade_part2.sql
+.\10_alter-views.sql
+.\11_alter-functions_part2.sql
+.\12_alter-stored-procedures.sql
+.\13_refresh-views.sql
+.\14_execute-upgrade_part3.sql

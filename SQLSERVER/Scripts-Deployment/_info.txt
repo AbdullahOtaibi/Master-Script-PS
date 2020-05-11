@@ -1,0 +1,1 @@
+.\Deploy-Scripts.ps1 -ScriptListFile ".\scriptslist.txt" -ServerInstance "localhost" -DatabaseName "MyDatabase" -Username "login_having_permissions" -Password "A$strongP@ssw0rd" -QueryTimeout 7200
